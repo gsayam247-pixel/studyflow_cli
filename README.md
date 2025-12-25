@@ -43,5 +43,6 @@ No external frameworks. Logic-first design.
 ## ▶️ How to Run
 
 Make sure Python is installed.
-'''bash
+
+```bash
 python study_planner.py
